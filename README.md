@@ -7,7 +7,7 @@
 
 ## COURSE
 
-![alt text](Task 1/certificate.jpg)
+![alt text](Task_1/certificate.jpg)
 
 This task started off with the Crash Course on Python course on Coursera. As I already had some experience in Python, it wasn't too hard. The OOP section taught me some new and exciting concepts.
 Loops, functions, iterables, basic data structures, were all covered.
