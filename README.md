@@ -26,7 +26,7 @@ I used a pip package called word-cloud to create the cloud. I also used matplotl
 
 I implemented Tic-Tac-Toe in vanilla Python using the command-line-interface. It is modular and is broken down into many functions, which is easy to understand. It also has many comments.
 
-Sources - https://youtu.be/BHh654_7Cmw, Stack Overflow for some custom functions.
+Sources - Youtube References, Stack Overflow for some custom functions.
 
 ### GAME-2
 
