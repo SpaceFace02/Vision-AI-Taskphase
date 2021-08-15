@@ -54,11 +54,11 @@ Sources:
 
 ## **BitCoin Prices**
 
-<img src="images/image1.png" alt="matplotlib1" style="width:500px;"/>
+<img src="Task-2/images/image1.png" alt="matplotlib1" style="width:500px;"/>
 
 ## **Trending Youtube Videos**
 
-<img src="images/image2.png" alt="matplotlib2" style="width:500px;"/>
+<img src="Task-2/images/image2.png" alt="matplotlib2" style="width:500px;"/>
 
 1.  Matplotlib is the most famous and most versatile data plotting library for python. It plots beautiful graphs based on custom data.
 2.  I learnt about plotting line charts, pie charts, adding annotations to pie charts, scatter plots, bubble plots, bar plots.
@@ -70,11 +70,11 @@ Sources:
 
 ## **Stack Plot**
 
-<img src="images/image3.png" alt="matplotlib3" style="width:500px;"/>
+<img src="Task-2/images/image3.png" alt="matplotlib3" style="width:500px;"/>
 
 ## **Pie Charts**
 
-<img src="images/image4.png" alt="matplotlib4" style="width:500px;"/>
+<img src="Task-2/images/image4.png" alt="matplotlib4" style="width:500px;"/>
 
 ## Sci-Kit Learn
 
@@ -96,7 +96,7 @@ Sources:
    - confusion matrix and classification report
 4. I got my hands dirty with some projects like classifying hand-written digits, predicting whether the case of breast cancer is malignant or benign, predicting prices of houses in Boston and finally working with the IRIS dataset to classify iris flowers into 3 categories.
 
-<img src="images/image5.png" alt="matplotlib5" style="width:500px;"/>
+<img src="Task-2/images/image5.png" alt="matplotlib5" style="width:500px;"/>
 
 ## OpenCV
 
@@ -104,11 +104,11 @@ Sources:
 
 ## **Canny Edge Detection**
 
-<img src="images/image7.png" alt="matplotlib7" style="width:500px;"/>
+<img src="Task-2/images/image7.png" alt="matplotlib7" style="width:500px;"/>
 
 ## **Feature Matching**
 
-<img src="images/image8.png" alt="matplotlib8" style="width:500px;"/>
+<img src="Task-2/images/image8.png" alt="matplotlib8" style="width:500px;"/>
 
 1. I followed a playlist for OpenCV from the youtube channel Sentdex and the website [pythonprogramming.net](https://pythonprogramming.net/).
 2. I learnt about various concepts in OpenCV like:
@@ -131,6 +131,6 @@ Sources:
 
 ## **MOG Background Subtractor**
 
-<img src="images/image8.png" alt="matplotlib8" style="width:500px;"/>
+<img src="Task-2/images/image8.png" alt="matplotlib8" style="width:500px;"/>
 
 ### _Whew, that was quite an exhaustive list_
