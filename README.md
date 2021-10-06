@@ -149,7 +149,11 @@ I learnt about various optimizaition techniques, regularization, over and under 
 
 ### COURSE-3
 
-This course was a short one, and I acquired various best skills and practices for organizing Deep Learning data and performing Error Analysis as smoothly as possible. I learnt about the various splits, organizing the splits, data mismatch and much more
+This course was a short one, and I acquired various best skills and practices for organizing Deep Learning data and performing Error Analysis as smoothly as possible. I learnt about the various splits, organizing the splits, data mismatch and much more.
+
+### COURSE-4
+
+This course was quite a confusing one and also lengthy. I learnt about Convolutional Neural Networks, how to optimize them, Transfer Learning, Skip Connections, Residual Networks, Semantic Segmentation, Face Recognition and Verification, Neural Style Transfer( which was lengthy, but very interesting ) and much more.
 
 ### COURSE-5
 
